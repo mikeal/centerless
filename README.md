@@ -104,7 +104,7 @@ There are three interfaces that inherit, or extend, this interface.
 3. `Proof` (Array of Hash Digests)
 
 Each of these interfaces derive from `Centerless` and `Centerless`
-can be seen as these interfaces as a triple (`[ Input, Instructions, Proof]`)
+can be seen as these interfaces collected as a triple (`[ Input, Instructions, Proof]`)
 representing a cryptographically secure virtual memory system
 that can produce and consume partial proofs using the same interface
 that provides partial selectivity for the Input.
@@ -115,12 +115,12 @@ that provides partial selectivity for the Input.
 * Input could be Proof but not all Inputs can be Proof.
 
 This results in forms of recursion that may previously have appeared
-to be impossible as they are in-expressable in any system of cryptography
+to be impossible as they are not expressable in any system of cryptography
 that exclusively builds upon its own encoding. But anyone familiar with
 cryptography enough to recognize the power of equivalency should see
 that one must only entangle the determinism of one system with another
 to move between statements of equality never intentionally expressed
-in any of the original encodings.
+in the original encodings.
 
 What holds these unions together are the characteristics of each
 interface and how they interrelate.
