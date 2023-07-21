@@ -66,13 +66,13 @@ cryptography.
 As an example, many data products across many categories offer
 features related to the hash digest of an API result or file. File
 and data addresses for IPFS files, Bittorrent, dat, git, and
-every other system are built from a merkle structure that
+every other system built from a merkle structure that
 includes meta information and/or represents the file as
 a byte array.
 
 This difference in addresses has meant a lack of compatibility
 between systems and lead all of these sytems to pursure their
-own new transport layers with minimal support for existing transports
+own transport layers with minimal support for existing transports
 like HTTP.
 
 Centerless brings data and addresses into perfect union such
@@ -80,8 +80,8 @@ that the resulting cryptography does not depend on a single
 identifier (center).
 
 If there's a means of cryptographic verification between formats,
-then centerless can be used to treat them equally. As long as the
-resulting proofs match data from different encodings, addresses,
+then centerless can treat them equally. As long as the
+resulting proofs match, the data from different encodings, addresses,
 and locations can be mixed and matched.
 
 All data, everywhere on the Internet, using any transport (HTTP, FTP,
@@ -89,7 +89,7 @@ git, Bittorrent, IPFS) is acceptible input if it ends in a matching proof. Once
 *anyone* has a matching proof they can publish the cryptography that
 arrived at that proccess for the benefit of others doing the same.
 
-## Input, Instructions, Proof
+## `Input`, `Instructions`, and `Proof`
 
 Let's define "data" in the abstract as "some bytes." All data, at some
 point or another, is turned into bytes. This way, centerless works with all
