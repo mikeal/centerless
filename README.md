@@ -164,26 +164,31 @@ and generalized for a small set of potential encodings.
 ### Proof
 
 `Proof` is a view of an array of hash digests.
-* each element of the byte array is securely randomized
-* which means that if you decode the trailing bytes as a number, it's
-  a securely randomized number.
-* and if you sort the digests before you write them, you can
+* each element of the byte array is securely randomized relativistic fingerprint,
+	* so if the proof can be calculated selectively based on the read position
+	  in the proof you can work with partial proofs.
+* if you sort the digests before you write them, you can
   predictably seek into it as an index. the performance of
 	this sort of index is faster than any tree you could
 	build.
+* if you decode the trailing bytes of any element in the
+  byte array as a number, it's a securely randomized number.
+	just make sure you read the number from the back of the digest
+	because if the digests are sorted it won't be very random :)
 
-All proofs in centerless are hash function agnostic.
+All proofs in centerless are hash function agnostic and can be
+built from any standard hash function (sha2, blake3, etc).
 
 When proofs are addressed as a single block the resulting address
 must be a `multihash`. The hash algorithm and digest length of that
 address is the same hash algorithm and length used for every
 hash in the proof.
 
-Since proofs are encoded separtely from input data and proof
-instructions proofs are easily upgraded to new hash functions without
+Since proofs are encoded separately from the input data and proof
+instructions, proofs are easily upgraded to new hash functions without
 re-encoding any of the underlying data layer. When addresses
 to foreign resources are written using a different `multihash`
-the differences between them can be close with equivalencies
+the differences between them can be closed with equivalencies
 just like the differences in all other `Input` sources.
 
 # Location Claims
