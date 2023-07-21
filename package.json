@@ -1,0 +1,16 @@
+{
+  "name": "centerless",
+  "version": "1.0.0",
+  "description": "Centerless is a realm of pure cryptography resulting from the de-centering of data from its address.",
+	"type": "module",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
