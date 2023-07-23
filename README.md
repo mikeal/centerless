@@ -37,8 +37,8 @@ describes a single (center) **location**.
 An **address** is understood to be *de-centralized* when it is
 *de-located* from its singular location address. One-way hash functions
 and derivative one-way cryptography are used to arrive at a
-hash based address that relies upon no autority or central location
-since anyone implementing the hash functions can produce proof.
+hash based address that relies upon no authority or central location
+since anyone implementing the algorithm can produce proof. This also means that consensus and compatibility are determined by algorithmic compatibility rather than specification.
 
 In both of these systems (centralized and de-centralized),
 * there is an address,
@@ -47,19 +47,19 @@ In both of these systems (centralized and de-centralized),
 The appearance of "de-centering" is the loss of singularity in 
 data **location** because "center" had previously defined as *"location"*.
 
-In truth, data and addresses have been "de-located." In both systems,
+In truth, data and addresses in cryptographically secured systems have been **"de-located."** In both systems (centrally located and cryptographically de-located),
 data and addresses are inter-dependent. The center of one
 system is a location and the center of the other is a hash digest.
 
 The cryptography we're talking about here is very simple. We're
 passing data into a function that returns some form of proof:
 a deterministic, securely randomized, byte range of a predictable
-(fixed) size.
+(fixed) size. That's true of sha2, and it's true of git and IPFS.
 
 The problem is that every new cryptographic function we write
 results in a different address. This means that **data**, the
 thing we're ***actually trying to represent***, is being divided
-and segmented into new silos resulting from the re-centering
+and segmented into new silos resulting from the **re-centering**
 of the address to a fixed representation of a single method of
 cryptography.
 
@@ -68,10 +68,10 @@ features related to the hash digest of an API result or file. File
 and data addresses for IPFS files, Bittorrent, dat, git, and
 every other system built from a merkle structure that
 includes meta information and/or represents the file as
-a byte array.
+a byte array, all resulting in different addresses.
 
 This difference in addresses has meant a lack of compatibility
-between systems and lead all of these sytems to pursure their
+between systems and lead all of these sytems to pursue their
 own transport layers with minimal support for existing transports
 like HTTP.
 
