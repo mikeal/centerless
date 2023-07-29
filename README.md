@@ -7,27 +7,48 @@ from the de-centering of data from its address.
 * Centerless is not de-centralized.
 * Centerless is entirely ***without*** **center**.
 
-Since input data to cryptography and the resulting
-proof addresses are inter-dependent *and* deterministic,
-it is then possible to reach proof without a fixed
-representation or address since any variations in
-representations or addresses representing the same
-bytes will result in the same proof.
+Centerless resembles a cryptographically complete virtual
+memory system, with equivalencies that entangle the determinism
+of different cryptographies and encodings, upon which
+higher performance data structures can be built that can read
+and write data from anywhere data that could arrive at succesful
+proof might be hiding on the internet.
 
-This can be used to:
-* Make any static website offline and update itself by pulling diffs
-  without moving or changing anything about where the site is hosted.
-* Publish patches, enhancements and other mutations to data as diffs against data
-  already on The Web, relying upon the already hosted data as a base.
-  * If the source file changes, the cryptography will break rather than produce a
-	  bad merge file.
-	* Anybody at any time can provide that data via other means or protocols to
-    build the merge, so dependence upon the origin service is highly severable.
-* Data encoded into different formats by different systems and
-	different actors can be cryptographicaly equalized. The resulting
-	state proofs can be used to build universal diffs and state changes
-	against the abstract agreed upon state rather than the hashes of
-	indeterministic and varied encodings.
+This allows for the resolution of dispute among all
+contention for "center."
+
+Such as:
+* Object/Type Encoding ([JSONProofs](./proofs/json))
+* Transport/Location Address ([LocationClaim](./claims/location))
+* Publishing Authority ([PublicAuthority](./proofs/public-authority))
+* "File" Encoding: 
+	* [ByteArrayProofs](./proofs/byte-array) which serve as a basis for other compatible proofs,
+  * [IPFSProofs](./proofs/ipfs), 
+	* [BittorrentProofs](./proofs/bittorrent), 
+	* [GitProofs](./proofs/git), 
+
+All of these accomplish two goals:
+1. Dispute arising between incompatible systems can be resolved
+   by making compatibility possible,
+2. The degree to which these systems are compatible is determined
+   by the users and cryptographers nearest that system rather than
+	 the owners, creators, or maintainers of such systems,
+3. as such, any power resulting from the appearance of unity around
+   the central point of dispute may be liberated by applying cryptography
+	 to the characteristics of sameness in ordinary appearance of
+	 that which appears of to be divergent.
+
+Centerless is documented as a collection of pure cryptographic
+processes. It's not written to/for a specific language, specification,
+software, hardware, etc. 
+
+Cryptography accepts bytes, views them as numbers, and returns proof
+as numbers encoded to bytes. If you've got numbers and bytes you should
+be able to implemented centerless proofs along with the relevant
+data structure operations and transports in whatever system you require.
+
+This respository includes an implemention in plain JavaScript, suitable
+for browsers, Node.js, and any other JS environment.
 
 ## Centralized, De-Decentralized, and Centerless
 
@@ -38,7 +59,9 @@ An **address** is understood to be *de-centralized* when it is
 *de-located* from its singular location address. One-way hash functions
 and derivative one-way cryptography are used to arrive at a
 hash based address that relies upon no authority or central location
-since anyone implementing the algorithm can produce proof. This also means that consensus and compatibility are determined by algorithmic compatibility rather than specification.
+since anyone implementing the algorithm can produce proof. This also means
+that consensus and compatibility are determined by algorithmic compatibility
+rather than specification alignment.
 
 In both of these systems (centralized and de-centralized),
 * there is an address,
@@ -47,7 +70,9 @@ In both of these systems (centralized and de-centralized),
 The appearance of "de-centering" is the loss of singularity in 
 data **location** because "center" had previously defined as *"location"*.
 
-In truth, data and addresses in cryptographically secured systems have been **"de-located."** In both systems (centrally located and cryptographically de-located),
+In truth, data and addresses in authenticatable data structures
+**"de-located"**, rather than "de-center" data. In both systems
+(centrally located and cryptographically de-located),
 data and addresses are inter-dependent. The center of one
 system is a location and the center of the other is a hash digest.
 
@@ -56,7 +81,7 @@ passing data into a function that returns some form of proof:
 a deterministic, securely randomized, byte range of a predictable
 (fixed) size. That's true of sha2, and it's true of git and IPFS.
 
-The problem is that every new cryptographic function we write
+The problem is that every new cryptographic process we write potentially
 results in a different address. This means that **data**, the
 thing we're ***actually trying to represent***, is being divided
 and segmented into new silos resulting from the **re-centering**
@@ -95,7 +120,7 @@ Let's define "data" in the abstract as "some bytes." All data, at some
 point or another, is turned into bytes. This way, centerless works with all
 systems that work in bytes, which is all systems.
 
-Let's call this abstract interface for data `Centerless`.
+Let's call the base interface for data (secure virtual memory) `Centerless`.
 
 There are three interfaces that inherit, or extend, this interface.
 
@@ -105,7 +130,7 @@ There are three interfaces that inherit, or extend, this interface.
 
 Each of these interfaces derive from `Centerless` and `Centerless`
 can be seen as these interfaces collected as a triple (`[ Input, Instructions, Proof]`)
-representing a cryptographically secure virtual memory system
+representing a cryptographically secured virtual memory system
 that can produce and consume partial proofs using the same interface
 that provides partial selectivity for the Input.
 
@@ -131,8 +156,7 @@ Input is a view of data as bytes.
 * it has a `.read(offset, close)` interface.
 
 Input is also a view of data as a byte array.
-* it includes a representation of data as consistent representation
-of byte segments (but could be just a single segment).
+* it's a representation of data as a sequence of sized byte segments (but could be only one segment long).
 * which means you can do all kinds of generic functional programming
 on the array to build proofs.
 
