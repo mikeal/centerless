@@ -1,7 +1,8 @@
 # `centerless`
 
-Centerless is a realm of pure cryptography resulting
-from the de-centering of data from its address.
+Centerless is a secure virtual data (memory/storage)
+realm resulting from the de-centering of data from its
+address
 
 * Centerless is not centralized.
 * Centerless is not de-centralized.
@@ -9,13 +10,12 @@ from the de-centering of data from its address.
 
 Centerless resembles a cryptographically complete virtual
 memory system, with equivalencies that entangle the determinism
-of different cryptographies and encodings, upon which
+of different data encodings and authorities, upon which
 higher performance data structures can be built that can read
-and write data from anywhere data that could arrive at succesful
-proof might be hiding on the internet.
+and write data from **anywhere**.
 
 This allows for the resolution of dispute among all
-contention for "center."
+contention for the characteristic "center" of data.
 
 Such as:
 * Object/Type Encoding ([JSONProofs](./proofs/json))
@@ -39,15 +39,15 @@ All of these accomplish two goals:
 	 that which appears of to be divergent.
 
 Centerless is documented as a collection of pure cryptographic
-processes. It's not written to/for a specific language, specification,
+processes (algorithms). It's not written to/for a specific language, specification,
 software, hardware, etc. 
 
-Cryptography accepts bytes, views them as numbers, and returns proof
+Processes secured by cryptography accept bytes, view them as numbers, and returns proof
 as numbers encoded to bytes. If you've got numbers and bytes you should
 be able to implemented centerless proofs along with the relevant
 data structure operations and transports in whatever system you require.
 
-This respository includes an implemention in plain JavaScript, suitable
+This respository includes implementions in plain JavaScript, suitable
 for browsers, Node.js, and any other JS environment.
 
 ## Centralized, De-Decentralized, and Centerless
@@ -58,7 +58,7 @@ describes a single (center) **location**.
 An **address** is understood to be *de-centralized* when it is
 *de-located* from its singular location address. One-way hash functions
 and derivative one-way cryptography are used to arrive at a
-hash based address that relies upon no authority or central location
+hash digest that relies upon no authority or central location
 since anyone implementing the algorithm can produce proof. This also means
 that consensus and compatibility are determined by algorithmic compatibility
 rather than specification alignment.
@@ -74,15 +74,15 @@ In truth, data and addresses in authenticatable data structures
 **"de-located"**, rather than "de-center" data. In both systems
 (centrally located and cryptographically de-located),
 data and addresses are inter-dependent. The center of one
-system is a location and the center of the other is a hash digest.
+system is a *location* and the center of the other is a hash digest.
 
 The cryptography we're talking about here is very simple. We're
 passing data into a function that returns some form of proof:
-a deterministic, securely randomized, byte range of a predictable
+a deterministic, guaranteed unique, byte range of a predictable
 (fixed) size. That's true of sha2, and it's true of git and IPFS.
 
 The problem is that every new cryptographic process we write potentially
-results in a different address. This means that **data**, the
+results in a differentiated address. This means that **data**, the
 thing we're ***actually trying to represent***, is being divided
 and segmented into new silos resulting from the **re-centering**
 of the address to a fixed representation of a single method of
@@ -92,17 +92,22 @@ As an example, many data products across many categories offer
 features related to the hash digest of an API result or file. File
 and data addresses for IPFS files, Bittorrent, dat, git, and
 every other system built from a merkle structure that
-includes meta information and/or represents the file as
-a byte array, all resulting in different addresses.
+include meta information and/or represent the file as
+a byte array, all result in different addresses.
 
 This difference in addresses has meant a lack of compatibility
 between systems and lead all of these sytems to pursue their
 own transport layers with minimal support for existing transports
-like HTTP.
+like HTTP. So, in practice, this is worse than data just being
+divided by encoding, it's also being divided by transport.
 
 Centerless brings data and addresses into perfect union such
 that the resulting cryptography does not depend on a single 
-identifier (center).
+identifier (center), meaning there is **no single fixed address**
+in centerless. All data representations may structure equivalencies
+to other resprenentations such that the differentiating characteristics
+of the encoding are irrelevant as long as they can read bytes
+that result in compatible proof.
 
 If there's a means of cryptographic verification between formats,
 then centerless can treat them equally. As long as the
@@ -112,7 +117,10 @@ and locations can be mixed and matched.
 All data, everywhere on the Internet, using any transport (HTTP, FTP,
 git, Bittorrent, IPFS) is acceptible input if it ends in a matching proof. Once
 *anyone* has a matching proof they can publish the cryptography that
-arrived at that proccess for the benefit of others doing the same.
+arrived at that proccess for the benefit of others doing the same. Rather
+than dividing data among encodings and networks, centerless allows for
+the entanglement of determinism between cryptographies so that each
+can be used together if the sources are truly equivalent.
 
 ## `Input`, `Instructions`, and `Proof`
 
