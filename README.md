@@ -12,7 +12,7 @@ Centerless resembles a cryptographically complete virtual
 memory system, with equivalencies that entangle the determinism
 of different data encodings and authorities, upon which
 higher performance data structures can be built that can read
-and write data from **anywhere**.
+and write data from/to **anywhere**.
 
 This allows for the resolution of dispute among all
 contention for the characteristic "center" of data.
