@@ -51,26 +51,26 @@ for browsers, Node.js, and any other JS environment.
 
 ## Power of the Public
 
-This page may seem overly philosophical but it’s important to remain abstract when the potential applications of what we’re talking about is so vast.
+This page may seem overly philosophical but it’s important to remain abstract when the potential application is so vast.
 
 Humans have been describing our world with bytes for decades and continue to invest more and more of our being in this activity. Most of the communication between beings, our art, our culture, all of it appears to be moving as bytes.
 
 That appearance of movement is the space of application for centerless. Cryptography is bytes in and bytes out, and Centerless is about applying cryptography to data **as we already see it.**
 
-Centerless is not a new thing you put data into, it’s for describing *any data you can see* so that we, **the public**, can build upon all that we see without having to negotiate with whatever power seems to have collected around the data we see.
+Centerless is not a new thing you put data into, it’s for describing *any data you can see* so that we, **the public**, can build upon all that we see without having to negotiate with whatever power seems to have collected around the data we *already see*.
 
-We think that large companies, institutions, standards groups, governance boards, and all the accumulated interests of technology and commerce are holding power by holding data. But data is never valuable in and of itself, the value of **anything** depends upon the observer. All the data we see we place some value on and spend attention and capital investing in that value. Which means that value depends on us, even if it appears to be value that is owned by someone else.
+We think that large companies, institutions, standards groups, governance boards, and all the accumulated interests of technology and commerce are holding power by holding data. But data is never valuable in and of itself, the value of **anything** depends upon an observer. All that we see we place some value on, spending attention and capital investing *in* that value wherever it *appears* to be. The value they appear to hold depends on us, they can’t “take it away” without making it valueless.
 
 If the public can see this data, and they **need** us to see it in order for it be of value, then what is stopping us from building with **each other** upon what we already see?
 
 Cryptography can authenticate that:
-* two parties are talking about the same thing
+* two (or more) parties are talking about the same thing
 * without either party trusting one another
 * and without any outside authority.
 
-We know this, but we easily forget it. Why?
+Anything we see, we can talk about in this trustless manor. We know this, but we easily forget it. Why?
 
-Namarupa (Name and Form), once something “exists” it has a name, once something has a name it is said to “exist.” We can’t talk about data without giving it a name. When we try to talk about data that isn’t owned by a single location we give it a new name, and that new name results in new data. This creates a dualistic tension between authority/ownership and the independent authenticatability of data.
+[Nāmarūpa](https://en.m.wikipedia.org/wiki/Namarupa) (Name and Form), once something “exists” it has a name, once something has a name it is said to “exist.” We can’t talk about data without giving it a name. The names the authority uses depends on them (centralized). When we try to talk about data that is **absent this authority** we give it a new name, and that new name results in new data. This creates a dualistic tension between authority/ownership and the independent authenticatability of data.
 
 How can I authenticate data claimed to be “tweets” without receiving data from twitter.com? Tweets are things that are created, owned, and read from twitter.com, that’s what the word “tweet” means!
 
