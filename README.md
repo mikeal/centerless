@@ -70,9 +70,16 @@ Cryptography can authenticate that:
 
 Anything we see, we can talk about in this trustless manor. We know this, but we easily forget it. Why?
 
-[Nāmarūpa](https://en.m.wikipedia.org/wiki/Namarupa) (Name and Form), once something “exists” it has a name, once something has a name it is said to “exist.” We can’t talk about data without giving it a name. The names the authority uses depends on them (centralized). When we try to talk about data that is **absent this authority** we give it a new name, and that new name results in new data. This creates a dualistic tension between authority/ownership and the independent authenticatability of data.
+[Nāmarūpa](https://en.m.wikipedia.org/wiki/Namarupa) (Name and Form), once something “exists” it has a name, once something has a name it is said to “exist.” We can’t talk about data without giving it a name. The name any authority uses will be centered around on them. When we try to talk about data that is **absent this authority** we give it a new name, and that new name results in new data, and since we are taking part in the creation of new names the new name is centered closer to our views and interests. 
 
-How can I authenticate data claimed to be “tweets” without receiving data from twitter.com? Tweets are things that are created, owned, and read from twitter.com, that’s what the word “tweet” means!
+This dualistic tension between authority/ownership and the independent authenticatability of data is resolved by
+1. understanding that data and address, name and form, are inter-dependent and do not exist apart from each other
+2. that the appearance of data (bytes) exists apart from this duality,
+3. and that this appearance can be authenticated by cryptography which is a *method* that **results** in a name.
+
+Centerless is built upon *method* rather than the resulting name. Differences between methods can be reconciled via proof, so we build upon proof rather than names.
+
+But how can I authenticate data claimed to be “tweets” without receiving data from twitter.com? Tweets are things that are created, owned, and read from twitter.com, that’s what the word “tweet” means!
 
 If the Internet Archive said “this is data is tweets” would you beleive them? I would, most others would as well. Even if I didn’t, most people have no problem checking twitter.com to verify.
 
