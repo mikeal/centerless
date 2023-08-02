@@ -49,6 +49,37 @@ data structure operations and transports in whatever system you require to accom
 This respository includes implementions in plain JavaScript, suitable
 for browsers, Node.js, and any other JS environment.
 
+## Power of the Public
+
+This page may seem overly philosophical but it’s important to remain abstract when the potential applications of what we’re talking about is so vast.
+
+Humans have been describing our world with bytes for decades and continue to invest more and more of our being in this activity. Most of the communication between beings, our art, our culture, all of it appears to be moving as bytes.
+
+That appearance of movement is the space of application for centerless. Cryptography is bytes in and bytes out, and Centerless is about applying cryptography to data **as we already see it.**
+
+Centerless is not a new thing you put data into, it’s for describing *any data you can see* so that we, **the public**, can build upon all that we see without having to negotiate with whatever power seems to have collected around the data we see.
+
+We think that large companies, institutions, standards groups, governance boards, and all the accumulated interests of technology and commerce are holding power by holding data. But data is never valuable in and of itself, the value of **anything** depends upon the observer. All the data we see we place some value on and spend attention and capital investing in that value. Which means that value depends on us, even if it appears to be value that is owned by someone else.
+
+If the public can see this data, and they **need** us to see it in order for it be of value, then what is stopping us from building with **each other** upon what we already see?
+
+Cryptography can authenticate that:
+* two parties are talking about the same thing
+* without either party trusting one another
+* and without any outside authority.
+
+We know this, but we easily forget it. Why?
+
+Namarupa (Name and Form), once something “exists” it has a name, once something has a name it is said to “exist.” We can’t talk about data without giving it a name. When we try to talk about data that isn’t owned by a single location we give it a new name, and that new name results in new data. This creates a dualistic tension between authority/ownership and the independent authenticatability of data.
+
+How can I authenticate data claimed to be “tweets” without receiving data from twitter.com? Tweets are things that are created, owned, and read from twitter.com, that’s what the word “tweet” means!
+
+If the Internet Archive said “this is data is tweets” would you beleive them? I would, most others would as well. Even if I didn’t, most people have no problem checking twitter.com to verify.
+
+So then, what is stopping us from building data layers and alternate applications that build **on top of** the data anyone can see?
+
+The entire category of “data products” available to us to solve such problems are built for the sorts of institutions that have large data problems, **data owners**, rather than the public. To date, everyone who has come into contact with the cryptography to solve these problems has created new systems that encode new data resulting in new accumulations of power among the founding actors of those systems. Given enough time these systems bear the characteristics of centralization of prior systems with new names.
+
 ## Centralized, De-Decentralized, and Centerless
 
 Things are understood to be *centralized* when their **address**
