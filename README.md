@@ -100,12 +100,12 @@ own transport layers with minimal support for existing transports
 like HTTP. So, in practice, this is worse than data just being
 divided by encoding, it's also being divided by transport.
 
-Centerless brings data and addresses into perfect union such
-that the resulting cryptography does not depend on a single 
-identifier (center), meaning there is **no single fixed address**
-in centerless. All data representations may structure equivalencies
-to other resprenentations such that the differentiating characteristics
-of the encoding are irrelevant as long as they can read bytes
+Centerless uses recusively composable virtual data interfaces so
+that the cryptography applied to them does not depend on a single 
+identifier (center), meaning there is **no single fixed address** for data
+in centerless. We can then define structured equivalencies
+between data representations such that the differentiating characteristics
+of the encoding layer are irrelevant as long as they can read bytes
 that result in compatible proof.
 
 If there's a means of cryptographic verification between formats,
