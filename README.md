@@ -78,7 +78,7 @@ system is a *location* and the center of the other is a hash digest.
 The cryptography we're talking about here is very simple. We're
 passing data into a function that returns some form of proof:
 a deterministic, guaranteed unique, byte range of a predictable
-(fixed) size which could also be viewed as a very large number guaranteed to be “random” within a fixed albeit incredibly large number space. That's true of sha2, and it's true of git and IPFS and all system that produce data structures that use hash functions to link their internally encoded descriptions of data.
+(fixed) size which could also be viewed as a very large number guaranteed to be “random” within a fixed albeit incredibly large number space. That's true of sha2, and it's true of git and IPFS and all systems that use hash functions to link their internally encoded descriptions of data.
 
 The problem is that every new cryptographic process we write potentially
 results in a differentiated address. This means that **data**, the
