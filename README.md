@@ -28,24 +28,23 @@ Such as:
 	* [GitProofs](./proofs/git), 
 
 All of these accomplish two goals:
-1. Dispute arising between incompatible systems can be resolved
-   by making compatibility possible,
+1. Dispute arising between incompatible systems can be resolved via cross-compatibility,
 2. The degree to which these systems are compatible is determined
    by the users and cryptographers nearest that system rather than
 	 the owners, creators, or maintainers of such systems,
 3. as such, any power resulting from the appearance of unity around
    the central point of dispute may be liberated by applying cryptography
 	 to the characteristics of sameness in ordinary appearance of
-	 that which appears of to be divergent.
+	 that which appears to be divergent.
 
 Centerless is documented as a collection of pure cryptographic
-processes (algorithms). It's not written to/for a specific language, specification,
+processes. It's not written to/for a specific language, specification,
 software, hardware, etc. 
 
-Processes secured by cryptography accept bytes, view them as numbers, and returns proof
-as numbers encoded to bytes. If you've got numbers and bytes you should
-be able to implemented centerless proofs along with the relevant
-data structure operations and transports in whatever system you require.
+Such processes accept bytes, view them as numbers, and return proof
+as very large numbers encoded to bytes. If you've got numbers and bytes you should
+be able to implement centerless proofs along with the relevant
+data structure operations and transports in whatever system you require to accomplish the intended result.
 
 This respository includes implementions in plain JavaScript, suitable
 for browsers, Node.js, and any other JS environment.
@@ -55,8 +54,8 @@ for browsers, Node.js, and any other JS environment.
 Things are understood to be *centralized* when their **address**
 describes a single (center) **location**.
 
-An **address** is understood to be *de-centralized* when it is
-*de-located* from its singular location address. One-way hash functions
+Data appears to be *de-centralized* when it is
+*de-located* from its singular location address using a hash digest based addess. One-way hash functions
 and derivative one-way cryptography are used to arrive at a
 hash digest that relies upon no authority or central location
 since anyone implementing the algorithm can produce proof. This also means
@@ -70,8 +69,8 @@ In both of these systems (centralized and de-centralized),
 The appearance of "de-centering" is the loss of singularity in 
 data **location** because "center" had previously defined as *"location"*.
 
-In truth, data and addresses in authenticatable data structures
-**"de-located"**, rather than "de-center" data. In both systems
+In truth, authenticatable data structures
+**"de-locate"**, rather than "de-center" data. In both systems
 (centrally located and cryptographically de-located),
 data and addresses are inter-dependent. The center of one
 system is a *location* and the center of the other is a hash digest.
@@ -79,7 +78,7 @@ system is a *location* and the center of the other is a hash digest.
 The cryptography we're talking about here is very simple. We're
 passing data into a function that returns some form of proof:
 a deterministic, guaranteed unique, byte range of a predictable
-(fixed) size. That's true of sha2, and it's true of git and IPFS.
+(fixed) size which could also be viewed as a very large number guaranteed to be “random” within a fixed albeit incredibly large number space. That's true of sha2, and it's true of git and IPFS and all system that produce data structures that use hash functions to link their internally encoded descriptions of data.
 
 The problem is that every new cryptographic process we write potentially
 results in a differentiated address. This means that **data**, the
