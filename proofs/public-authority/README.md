@@ -12,7 +12,7 @@ of the data would change were it to come from a different authority,
 and vice versa.
 
 This is presumed to mean that this authority's control over data
-is unshakable. However, the mean appearance of the data *in public*
+is unshakable. However, the mere appearance of the data *in public*
 means that every public actor has a means of verification.
 
 In other words, we can talk **about** data on twitter.com and even
