@@ -14,6 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "sync-multihash-sha2": "^1.0.0",
     "uint8arrays": "^4.0.6"
   }
 }
