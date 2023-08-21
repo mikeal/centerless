@@ -50,15 +50,17 @@ for (const file of dir('sutras')) {
 
 	const flip = find_flip(lines)
 	if (flip) {
-		console.log({flip})
 		const to_flip = lines.slice(0, flip)
 		let i = 0
 		while (i < to_flip.length) {
 			const [ first, second ] = to_flip.slice(i, i+2)
-			lines[i] = second
+			lines[i++] = second
 			lines[i++] = first
-			i++
 		}
+	}
+
+  while (guess(lines[lines.length-1]) === guess(lines[lines.length-2]) === true) {
+		lines.pop()
 	}
 
 	texts[file.slice(0, file.length-3)] = { 
@@ -67,4 +69,35 @@ for (const file of dir('sutras')) {
 }
 
 
-console.log(texts)
+class Translation {
+	constructor (_from, _to) {
+		this._from = from
+		this._to = to
+	}
+	generate_inclusions (openai) {
+		
+	}
+}
+
+class TranslationPairs  {
+	constructor (lines) {
+		this.lines = lines
+		this.pairs = []
+		let i = 0
+		while (i < lines.length) {
+			this.pairs.push([ lines[i++], lines[i++] ])
+		}
+	}
+	map (fn) {
+		return this.pairs.map(fn)
+	}
+	static from (lines) {
+		return new TranslationPairs(lines)
+	}
+}
+
+for (const [ name, { lines } ] of Object.entries(texts)) {
+	const pairs = TranslationPairs.from(lines)
+	console.log(pairs.pairs)
+}
+
