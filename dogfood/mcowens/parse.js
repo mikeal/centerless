@@ -3,8 +3,9 @@ import { toString } from 'uint8arrays/to-string'
 import { join } from 'node:path'
 import rmd from 'remove-markdown'
 import is_chinese from 'is-chinese'
+import strlen from 'utf8-length'
 
-const guess = text => !is_chinese(text) 
+const guess = text => !is_chinese(text.slice(0,1)) 
 
 const texts = {}
 
@@ -40,6 +41,7 @@ for (const file of dir('sutras')) {
 		.map(t => trim_md(t))
 		.filter(x => {
 			if (removals.includes(x)) return false
+			if (x.startsWith('CHAPTER')) return false
 			return true
 		})
 	const headings = []
@@ -63,6 +65,15 @@ for (const file of dir('sutras')) {
 		lines.pop()
 	}
 
+	let i = 1 
+	while (i < lines.length) {
+		if (guess(lines[i-1]) === guess(lines[i])) {
+			lines[i-1] += '\n\n' + lines.splice(i, 1)[0]
+		} else {
+			i++
+		}
+	}
+
 	texts[file.slice(0, file.length-3)] = { 
     headings, lines, file
 	}
@@ -71,11 +82,47 @@ for (const file of dir('sutras')) {
 
 class Translation {
 	constructor (_from, _to) {
-		this._from = from
-		this._to = to
+		this._from = _from
+		this._to = _to
 	}
-	generate_inclusions (openai) {
-		
+	generate_map (openai) {
+	}
+	static from (_from, _to) {
+		return new Translation(_from, _to)
+	}
+}
+
+
+class Part {
+	constructor ({ string, chars }) {
+		this.string = string
+		this.chars = chars
+	}
+	static from (string) {
+		return new Part({ string, chars: safe_split(string, puncuation) })
+	}
+	translate (to) {
+		return Translation.from(this, to)
+	}
+}
+
+class Line {
+	constructor ({ string, parts }) {
+		this.string = string
+		this.parts = parts
+		let i = 0
+		this.offsets = this.parts.map(p => {
+			const found = string.indexOf(p, i)
+			if (found === -1) throw new Error('Invalid constructor args')
+			i = found + p.length
+		})
+	}
+	map (fn) {
+		return this.parts.map(fn)
+	}
+	static from (string) {
+		const parts = safe_split(string, sentence_delimiters)
+		return new Line({ string, parts })
 	}
 }
 
@@ -89,15 +136,69 @@ class TranslationPairs  {
 		}
 	}
 	map (fn) {
-		return this.pairs.map(fn)
+		return this.pairs.map(([x,y]) => fn([ Line.from(x), Line.from(y) ]))
 	}
 	static from (lines) {
 		return new TranslationPairs(lines)
 	}
 }
 
+const puncuation = [
+  '"',
+  "'",
+  '「',
+  '」',
+  '」',
+  '[',
+  ']',
+  ':',
+  ';',
+  '、',
+  '!',
+  ',',
+  ' ',
+  '：',
+  '，',
+  '　',
+  '！',
+  '；'
+]
+
+const sentence_delimiters = ['.', '。', '\n']
+
+const safe_split = (string, split_chars) => {
+  /* Regex splitting across languages is hard and error prone, this is better */
+  const chars = string.split('')
+  const results = []
+  let current = ''
+  while (chars.length) {
+    const next = chars.shift()
+    if (split_chars.includes(next)) {
+      if (current.length) results.push(current)
+      current = ''
+    } else {
+      current += next
+    }
+  }
+  if (current.length) results.push(current)
+  return results
+}
+
 for (const [ name, { lines } ] of Object.entries(texts)) {
 	const pairs = TranslationPairs.from(lines)
-	console.log(pairs.pairs)
+	const line_translations = pairs.map(([ chinese, english ]) => {
+		let i = 0
+		const translations = []
+    if (chinese.parts.length !== english.parts.length) {
+			translations.push(Translation.from(chinese.string, english.string))
+		} else {
+	    while (i < chinese.parts.length) {
+				translations.push(Translation.from(chinese.parts[i], english.parts[i]))
+				i++
+			}
+		}
+		return translations
+	})
+	console.log(line_translations)
 }
 

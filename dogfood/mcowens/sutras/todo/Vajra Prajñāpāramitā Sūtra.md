@@ -5,16 +5,11 @@
 
 Translated from the Chinese by M. C. Owens
 歐文譯
-LOTUS UNDERGROUND 
 
 For the benefit of all sentient beings
 為了所有眾生的利
 
-# Introduction
-
-This translation was made from the Chinese translation of the *Vajracchedikā Prajñāpāramitā Sūtra* done by Kumarajiva in 402 CE. See *Taishō shinshū daizōkyō*, vol 8, no. 235
-
-## 🍃 CHAPTER ONE
+## CHAPTER ONE
 
 ### 如是我聞:
 
@@ -24,7 +19,7 @@ Thus have I heard:
 
 One time, [the Buddha](https://www.notion.so/Gautama-Buddha-7a9e6fae65ac42f2ba609666e78c42b3?pvs=21) was in the kingdom of [Śravasti](https://www.notion.so/ravasti-e3bbe197a061402395f888b2465ef4e4?pvs=21), in the Jetavana, Anathapindika’s Park, along with a great assembly of [bhikṣus](https://www.notion.so/bhik-us-b328533226be4738ac812c8d956fc745?pvs=21), one thousand two hundred fifty people in all. At that time, the World-Honored One prepared to eat, put on his robe, took up his bowl, and entered the great city of [Śravasti](https://www.notion.so/ravasti-e3bbe197a061402395f888b2465ef4e4?pvs=21) to beg for food. Inside the city he went begging door to door, then returned to where he was staying. When he finished eating his meal he put away his robe and bowl, washed his feet, spread out a seat, and then sat.
 
-## 🍃 CHAPTER TWO
+## CHAPTER TWO
 
 ### 時，長老須菩提在大眾中即從座起, 偏袒右肩，右膝著地，合掌恭敬而白佛 言，“希有!世尊!如來善護念諸菩薩, 善付囑諸菩薩.世尊!善男子，善女 人，發阿耨多羅三藐三菩提心，應云何 住?云何降伏其心?”
 
@@ -38,13 +33,13 @@ The Buddha replied, “Excellent, excellent! Subhūti! As you have said, ‘The 
 
 “Please continue, World-Honored One! We joyfully wish to hear.”
 
-## 🍃 CHAPTER THREE
+## CHAPTER THREE
 
 ### 佛告須菩提: “諸菩薩摩訶薩應如是降伏 其心:‘所有一切眾生之類，若卵生‚ 若胎生，若濕生，若化生，若有色‚ 若無色，若有想，若無想，若非有想非 無想，我皆令入無餘涅槃而滅度之.’ 如是滅度無量無數無邊眾生，實無眾生 得滅度者.何以故?須菩提!若菩薩 有我相，人相，眾生相，壽者相，即非 菩薩."
 
 The Buddha told Subhūti, “All [bodhisattva](https://www.notion.so/bodhisattva-ed969c5cb9b646ddbd24779bf0ae827a?pvs=21), mahāsattvas should master their mind like this: ‘Of all kinds of sentient beings; whether born from an egg or a womb; born from moisture or by metamorphosis; whether with form or without form; whether with perception, without perception, or neither with perception nor non-perception; I cause them all to enter remainderless Nirvana, thereby liberating them.’ Like this, immeasurable, incalculable, illimitable sentient beings are liberated, while, in reality, no sentient being attains liberation. Why? Subhūti! If bodhisattvas possess the characteristics of a self, an individual, a sentient being, or a living thing, then they are not bodhisattvas.”
 
-## 🍃 CHAPTER FOUR
+## CHAPTER FOUR
 
 ### “復次，須菩提! 菩薩於法，應無所住‚ 行於布施，所謂不住色布施，不住聲‚ 香，味，觸，法布施.須菩提!菩薩應 如是布施，不住於相.何以故?若菩薩不 住相布施，其福德不可思量.”
 
@@ -70,7 +65,7 @@ The Buddha told Subhūti, “All [bodhisattva](https://www.notion.so/bodhisattva
 
 “Subhuti! Bodhisattvas giving without abiding in characteristics receive rewards that are also like this, inconceivable. Subhuti! Bodhisattvas should abide only as has been taught.”
 
-## 🍃 CHAPTER FIVE
+## CHAPTER FIVE
 
 ### “須菩提! 於意云何? 可以身相見如來 不?”
 
@@ -84,7 +79,7 @@ The Buddha told Subhūti, “All [bodhisattva](https://www.notion.so/bodhisattva
 
 The Buddha told Subhuti: “Anything with characteristics is a delusion. If you see all characteristics not as characteristics, then you will see the Thus Come One.”
 
-## 🍃 CHAPTER SIX
+## CHAPTER SIX
 
 ### 須菩提白佛言: “世尊! 頗有眾生，得聞 如是言說章句，生實信不?”
 
@@ -102,7 +97,7 @@ The Buddha told Subhuti, “Do not say this. Five hundred years after the passin
 
 “If they grasp at the characteristics of dharmas, then they would be attached to a self, an individual, a sentient being, and a living thing. Why? If they grasp at the characteristics of what are not dharmas, then they would still be attached to a self, an individual, a sentient being, and a living thing. For this reason, they should not grasp at dharmas, nor should they grasp at what are not dharmas. It is for this reason the Thus Come One always says: ‘All you bhikṣus know, the Dharma I speak is like the parable of the raft. The Dharma should, nevertheless, be abandoned. How much more so what is not the Dharma.’”
 
-## 🍃 CHAPTER SEVEN
+## CHAPTER SEVEN
 
 ### “須菩提!於意云何? 如來得阿耨多羅三 藐三菩提耶?如來有所說法耶?”
 
@@ -112,7 +107,7 @@ The Buddha told Subhuti, “Do not say this. Five hundred years after the passin
 
 Subhuti said: “As I understand the meaning of what the Buddha has said, there is no definite dharma called *anuttarā-samyak-saṃbodhi*, and there is no definite dharma the Thus Come One can speak. Why is this? Because the Dharma the Thus Come One speaks cannot be held, cannot be spoken; is neither dharma nor not dharma. Why? All saints and sages are distinguished by unconditioned Dharma.”
 
-## 🍃 CHAPTER EIGHT
+## CHAPTER EIGHT
 
 ### “須菩提! 於意云何?若人滿三千大千世 界七寶以用布施，是人所得福德，寧為多不?”
 
@@ -126,7 +121,7 @@ Subhuti said: “Extremely great, World-Honored One! Why? Because this merit doe
 
 “If, however, there was someone who, from this sutra, received and retained even just four lines of verse and explained them to others, this person’s merit would surpass that. Why? Subhuti! Each and every buddha and all *buddha-anuttarā-samyak-saṃbodhi-dharma* come from this sutra. Subhuti! What has been called Buddha Dharma is not Buddha Dharma.”
 
-## 🍃 CHAPTER NINE
+## CHAPTER NINE
 
 ### “須菩提!於意云何? 須陀洹能作是念: ‘我得須陀洹果.’ 不?”
 
@@ -160,7 +155,7 @@ Subhuti replied: “No, World-Honored One! Why? [Anāgāmins](https://www.notion
 
 Subhuti replied: “No, World-Honored One! Why is this? In reality, there is no dharma called an [arahat](https://www.notion.so/arhat-worthy-one-b8950791fb3d475087ca6fc8080b3c48?pvs=21). World-Honored! If arahats had this thought, ‘I have obtained the Way of an [arahat](https://www.notion.so/arhat-worthy-one-b8950791fb3d475087ca6fc8080b3c48?pvs=21),’ then they become attached to a self, an individual, a sentient being, and a living thing. World Honored-One! The Buddha says I have attained the indisputable [samādhi](https://www.notion.so/sam-dhi-f7bfffbdd74d4cef9ecb3cadbd11c645?pvs=21), that I am first and foremost among men, foremost [arahat](https://www.notion.so/arhat-worthy-one-b8950791fb3d475087ca6fc8080b3c48?pvs=21) freed from desire. World Honored-One! I do not have this thought: ‘I am an [arahat](https://www.notion.so/arhat-worthy-one-b8950791fb3d475087ca6fc8080b3c48?pvs=21) freed from desire.’ World-Honored One! If I had this thought, ‘I have obtained the Way of an [arahat](https://www.notion.so/arhat-worthy-one-b8950791fb3d475087ca6fc8080b3c48?pvs=21),’ then the World Honored-One would not have said, Subhuti is the one who enjoys [aranya (forest)](https://www.notion.so/aranya-forest-e83be5f667724d90a8698f1eb7d94261?pvs=21) practice. Since, in reality, Subhuti has nothing to practice, he is called Subhuti, the one who enjoys araṇya practice.”
 
-## 🍃 CHAPTER TEN
+## CHAPTER TEN
 
 ### 佛告須菩提:“於意云何?如來昔在然燈 佛所，於法有所得不?”
 
@@ -190,7 +185,7 @@ The Buddha told Subhuti: “What do you think? When the Thus Come One was with D
 
 Subhuti said:, “Extremely great, World-Honored One! Why? The Buddha says that which is not a body is called a great body.”
 
-## 🍃 CHAPTER ELEVEN
+## CHAPTER ELEVEN
 
 ### “須菩提! 如恒河中所有沙數，如是沙等 恒河，於意云何?是諸恒河沙寧為多 不?”
 
@@ -212,13 +207,13 @@ Subhuti replied: “Extremely great, World-Honored One!”
 
 The Buddha told Subhuti: “If virtuous men and women, who from this sutra, receive and retain even just four lines of verse, and explain them to another, the merit obtained will surpass the aforementioned merit.”
 
-## 🍃 CHAPTER TWELVE
+## CHAPTER TWELVE
 
 ### “復次，須菩提!隨說是經，乃至四句偈 等，當知此處，一切世間天，人，阿修 羅，皆應供養，如佛塔廟，何況有人盡 能受持讀誦.須菩提!當知是人成就最 上第一希有之法，若是經典所在之處, 則為有佛，若尊重弟子.”
 
 “Furthermore, Subhuti! Following an explanation of this sutra, if even just four lines of verse, you should know, at that place all heavenly beings and asuras of all realms will make offerings as if it were a Buddha reliquary. How much more so if someone is able to receive, retain, read, and recite it completely. Subhuti! You should know this person has achieved the supreme, foremost, rare Dharma and, wherever this sutra discourse is located, there will be a buddha and an honorable disciple.”
 
-## 🍃 CHAPTER THIRTEEN
+## CHAPTER THIRTEEN
 
 ### 爾時，須菩提白佛言:“世尊!當何名此 經?我等云何奉持?”
 
@@ -256,7 +251,7 @@ Subhuti replied: “Extremely many, World Honored- One!”
 
 “Subhuti! If there are virtuous men and women who practice giving lives equal to the sands in the Ganges River; if, however, there is someone who, from this sutra, retains only four lines of verse and explains them to another, the merit would be much greater.”
 
-## 🍃 CHAPTER FOURTEEN
+## CHAPTER FOURTEEN
 
 ### 爾時，須菩提聞說是經，深解義趣，涕 淚悲泣，而白佛言:“希有!世尊!佛說 如是甚深經典，我從昔來所得慧眼，未 曾得聞如是之經.世尊!若復有人得聞 是經，信心清淨，則生實相，當知是人 成就第一希有功德.世尊!是實相者‚ 則是非相，是故如來說名實相.世尊! 我今得聞如是經典，信解受持不足為 難，若當來世，後五百歲，其有眾生‚ 得聞是經，信解受持，是人則為第一希 有.何以故?此人無我相，人相，眾生 相，壽者相.所以者何?我相即是非 相，人相，眾生相，壽者相即是非相. 何 以故?離一切諸相，則名諸佛.”
 
@@ -286,7 +281,7 @@ The Buddha told Subhuti: “So it is, so it is! If there are also people able to
 
 “Subhuti! In ages to come, if there are virtuous men and women able to retain and recite this sutra, then the Thus Come One, by means of the Wisdom of the Buddha, fully knows and fully sees these people all achieve immeasurable, illimitable merit.”
 
-## 🍃 CHAPTER FIFTEEN
+## CHAPTER FIFTEEN
 
 ### “須菩提!若有善男子，善女人，初日分 以恒河沙等身布施，中日分復以恒河沙 等身布施，後日分亦以恒河沙等身布 施，如是無量百千萬億劫以身布施;若 復有人聞此經典，信心不逆，其福勝 彼，何況書寫，受持，讀誦，為人解 說?”
 
@@ -300,7 +295,7 @@ The Buddha told Subhuti: “So it is, so it is! If there are also people able to
 
 “Subhuti! Wherever there is this sutra, heavenly beings, humans and asuras of all worldly realms will make offerings; you should know this place will then become a reliquary, and they will all reverentially make obeisance, circumambulating it, spreading all kinds of flowers and incense here.”
 
-## 🍃 CHAPTER SIXTEEN
+## CHAPTER SIXTEEN
 
 ### “復次，須菩提！善男子，善女人，受持讀誦此經，若為人輕賤，是人先世罪業, 應墮惡道，以今世人輕賤故，先世罪業 則為消滅，當得阿耨多羅三藐三菩提.”
 
@@ -315,7 +310,7 @@ The Buddha told Subhuti: “So it is, so it is! If there are also people able to
 
 “Subhuti! If virtuous men and women in latter times of decline retain and recite this sutra, the merit they will obtain, if I fully explained it, some people may hear and their minds would be confounded, suspicious, and untrusting. Subhuti! You should know, the meaning of this sutra is inconceivable, and its fruition is also inconceivable.”
 
-## 🍃 CHAPTER SEVENTEEN
+## CHAPTER SEVENTEEN
 
 ### 爾時，須菩提白佛言：“世尊！善男子, 善女人，發阿耨多羅三藐三菩提心，云
 何應住？云何降伏其心?”
@@ -364,7 +359,7 @@ Subhuti said: “World Honored-One! What the Thus Come One says is someone’s v
 
 “Subhuti! Bodhisattvas are also like this. If they make this statement: ‘I will liberate immeasurable sentient beings,’ then they are not called bodhisattvas. Why? Subhuti! In reality there is no dharma called a bodhisattva. For this reason, the Buddha says: ‘All dharmas are without a self, individuality, sentience, or life.’ Subhuti! If bodhisattvas make this statement: ‘I will adorn Buddha lands,’ they are not called bodhisattvas. Why? The Thus Come One says the adornments of a Buddha land are not adornments,  they are called adornments. Subhuti! If bodhisattvas penetrate the selflessness of all dharmas, the Thus Come One says this is called truly being a bodhisattva.”
 
-## 🍃 CHAPTER EIGHTEEN
+## CHAPTER EIGHTEEN
 
 ### “須菩提！於意云何？如來有肉眼不?”
 
@@ -430,7 +425,7 @@ The Buddha told Subhuti: “The sentient beings within all those lands, of whate
 
 Subhuti! The past mind cannot be obtained. A present mind cannot be obtained. The future mind cannot be obtained.”
 
-## 🍃 CHAPTER NINETEEN
+## CHAPTER NINETEEN
 
 ### “須菩提！於意云何？若有人滿三千大千世界七寶以用布施‚ 是人以是因緣‚ 得福多不?”
 
@@ -444,7 +439,7 @@ Subhuti! The past mind cannot be obtained. A present mind cannot be obtained. Th
 
 Subhuti! “If this merit was real, the Thus Come One would not have said the merit obtained is great; due to the nonexistence of merit, the Thus Come One says the merit obtained is great.”
 
-## 🍃 CHAPTER TWENTY
+## CHAPTER TWENTY
 
 ### “須菩提！於意云何？佛可以具足色身見不?”
 
@@ -462,7 +457,7 @@ Subhuti! “If this merit was real, the Thus Come One would not have said the me
 
 “No, World Honored-One! The Thus Come One should not be seen as having all perfect characteristics. Why? The perfection of all characteristics that the Thus Come One speaks of is not perfection, it is called the perfection of all characteristics.”
 
-## 🍃 CHAPTER TWENTY-ONE
+## CHAPTER TWENTY-ONE
 
 ### “須菩提！汝勿謂如來作是念：‘我當有所說法.’ 莫作是念，何以故？若人言：‘如
 來有所說法.’ 即為謗，不能解我所說故."
@@ -483,7 +478,7 @@ At that time, the Wise Subhuti addressed the Buddha saying: “World Honored-One
 
 The Buddha said: “Subhuti! There are neither sentient beings nor non-sentient beings. Why? Subhuti! Sentient beings, the Thus Come One says, are not sentient beings, they are called sentient beings.”
 
-## 🍃 CHAPTER TWENTY-TWO
+## CHAPTER TWENTY-TWO
 
 ### 須菩提白佛言：“世尊！佛得阿耨多羅三藐三菩提，為無所得耶?”
 
@@ -494,7 +489,7 @@ Subhuti addressed the Buddha saying: “World Honored-One! Does the Buddha attai
 
 “So it is, so it is! Subhuti! Regarding my *anuttarā-samyak-saṃbodhi*, there is not even the least dharma that can be attained, this is called *anuttarā-samyak-saṃbodhi*.”
 
-## 🍃 CHAPTER TWENTY-THREE
+## CHAPTER TWENTY-THREE
 
 ### “復次，須菩提！是法平等，無有高下‚ 是名阿耨多羅三藐三菩提；以無我，無
 人，無眾生，無壽者，修一切善法，則得阿耨多羅三藐三菩提．須菩提！所言
@@ -502,19 +497,19 @@ Subhuti addressed the Buddha saying: “World Honored-One! Does the Buddha attai
 
 “Furthermore, Subhuti! This Dharma is equanimous and without variance, so it is called *anuttarā-samyak-saṃbodhi*; being without self, individuality, sentience or life in the cultivation of all virtuous Dharma, one attains *anuttarā-samyak-saṃbodhi*. Subhuti! What is said to be virtuous Dharma, the Thus Come One says, is not virtuous Dharma, it is called virtuous Dharma.”
 
-## 🍃 CHAPTER TWENTY-FOUR
+## CHAPTER TWENTY-FOUR
 
 ### “須菩提！若三千大千世界中所有諸須彌山王，如是等七寶聚，有人持用布施; 若人以此般若波羅蜜經，乃至四句偈等‚ 受持讀誦，為他人說，於前福德百分不及一，百千萬億分，乃至算數譬喻所不能及.”
 
 “Subhuti! If there were piles of the seven treasures equal to all the Sumeru mountain kings within a three thousand great thousand world-system, and someone used it all to practice giving; and if someone retains and recites this *Prajñāpāramitā Sūtra*, even just four lines, and tells it to others, the previous merit is not even one hundredth, one thousandth, one ten-thousandth, one millionth, nor even is a calculation or comparison of it able to be reached.”
 
-## 🍃 CHAPTER TWENTY-FIVE
+## CHAPTER TWENTY-FIVE
 
 ### “須菩提！於意云何？汝等勿謂如來作是念：‘我當度眾生.’須菩提！莫作是念. 何以故？實無有眾生如來度者，若有眾生如來度者，如來則有我，人，眾生, 壽者．須菩提！如來說：‘有我者，則非有我，而凡夫之人以為有我.’ 須菩提! 凡夫者，如來說則非凡夫.”
 
 “Subhuti! What do you think? You should not claim the Thus Come One has this thought: ‘I will liberate sentient beings.’ Subhuti! Do not have this thought. Why? In reality, there are no sentient beings the Thus Come One liberates. If there were sentient beings the Thus Come One liberates, the Thus Come One would then possess a self, individuality, sentience, and life. Subhuti! The Thus Come One says: ‘The existent self is not an existent self, however ordinary people think there is an existent self.’ Subhuti! The ordinary, the Thus Come One says, is not ordinary.”
 
-## 🍃 CHAPTER TWENTY-SIX
+## CHAPTER TWENTY-SIX
 
 ### “須菩提！於意云何？可以三十二相觀如來不?”
 
@@ -545,7 +540,7 @@ Or if I am sought by sound,
 This person walks the wrong path, 
 Unable to see the Thus Come One.
 
-## 🍃 CHAPTER TWENTY-SEVEN
+## CHAPTER TWENTY-SEVEN
 
 ### “須菩提！汝若作是念：‘如來不以具足相故，得阿耨多羅三藐三菩提.’ 須菩提! 莫作是念．如來不以具足相故，得阿耨多羅三藐三菩提.
 
@@ -555,7 +550,7 @@ Unable to see the Thus Come One.
 
 “Subhuti! If you have this thought: ‘One who develops *anuttarā-samyak-saṃbodhi* says all dharmas have the characteristic of annihilation.’ Do not have this thought. Why? One who develops the mind of *anuttarā-samyak-saṃbodhi* does not say dharmas have the characteristic of annihilation.”
 
-## 🍃 CHAPTER TWENTY-EIGHT
+## CHAPTER TWENTY-EIGHT
 
 ### “須菩提！若菩薩以滿恒河沙等世界七寶布施；若復有人知一切法無我，得成於忍‚ 此菩薩勝前菩薩所得功德．須菩提！以諸菩薩不受福德故.”
 
@@ -570,13 +565,13 @@ Subhuti addressed the Buddha saying: “World Honored-One! Why do you say bodhis
 
 “Subhuti! The merit made by bodhisattvas should not be desired. For this reason, it is said they do not receive merit.”
 
-## 🍃 CHAPTER TWENTY-NINE
+## CHAPTER TWENTY-NINE
 
 ### “須菩提！若有人言：‘如來若來若去‚ 若坐若臥.’是人不解我所說義．何以故? 如來者，無所從來，亦無所去，故名如來.”
 
 “Subhuti! If someone says: ‘The Thus Come One comes and goes, sits and lies down,’ this person does not understand the meaning of what I say. Why? That which arrives thusly has nowhere to come from and nowhere to go, and is therefore called the Thus Come One.”
 
-## 🍃 CHAPTER THIRTY
+## CHAPTER THIRTY
 
 ### “須菩提！若善男子，善女人，以三千大千世界碎為微塵，於意云何？是微塵眾
 寧為多不?”
@@ -594,7 +589,7 @@ Subhuti addressed the Buddha saying: “World Honored-One! Why do you say bodhis
 
 “Subhuti! A unified entity cannot be spoken of. Only ordinary people are attached to such things.”
 
-## 🍃 CHAPTER THIRTY-ONE
+## CHAPTER THIRTY-ONE
 
 ### “須菩提！若人言：‘佛說我見，人見, 眾生見，壽者見.’ 須菩提! 於意云何?
 是人解我所說義不?”
@@ -612,7 +607,7 @@ Subhuti! What do you think? Does this person understand the meaning of what I sa
 
 “Subhuti! Those who develop the mind of *anuttarā-samyak-saṃbodhi*, regarding all dharmas, they should know like this, see like this, be confident like this, without producing the characteristics of dharmas. Subhuti! What are said to be characteristics of dharmas, the Thus Come One says, are not characteristics of dharmas, they are called characteristics of dharmas.”
 
-## 🍃 CHAPTER THIRTY-TWO
+## CHAPTER THIRTY-TWO
 
 ### “須菩提！若有人以滿無量阿僧祇世界七寶持用布施，若有善男子，善女人‚
 發菩薩心者，持於此經，乃至四句偈等，受持讀誦，為人演說，其福勝彼.
