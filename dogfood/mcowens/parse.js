@@ -1,11 +1,13 @@
 import { readFileSync as read, readdirSync as dir, writeFileSync as writeFile } from 'node:fs'
 import { toString } from 'uint8arrays/to-string'
+import { encode } from './lib/text-format.js'
+import { globSync as glob } from 'glob'
 import { join } from 'node:path'
 import rmd from 'remove-markdown'
 import is_chinese from 'is-chinese'
 import strlen from 'utf8-length'
 
-const guess = text => !is_chinese(text.slice(0,1)) 
+const guess = text => text.length > 1 ? !is_chinese(text.slice(1,2)) : !is_chinese(text.slice(0,1)) 
 
 const texts = {}
 
@@ -33,9 +35,8 @@ const find_flip = lines => {
 	return i
 }
 
-for (const file of dir('sutras')) {
-	if (!file.endsWith('.md')) continue
-	const text = toString(read(join('sutras', file)))
+const parseFile = file => {
+  const text = toString(read(file))
 	const lines = text.split('\n')
 	  .filter(x => x)
 		.map(t => trim_md(t))
@@ -73,12 +74,8 @@ for (const file of dir('sutras')) {
 			i++
 		}
 	}
-
-	texts[file.slice(0, file.length-3)] = { 
-    headings, lines, file
-	}
+	return lines
 }
-
 
 class Translation {
 	constructor (_from, _to) {
@@ -184,25 +181,9 @@ const safe_split = (string, split_chars) => {
   return results
 }
 
-const trans = {}
+if (process.argv.length < 3) throw new Error('no args')
+const files = process.argv.slice(2).flatMap(f => glob(f))
 
-for (const [ name, { lines } ] of Object.entries(texts)) {
-	const pairs = TranslationPairs.from(lines)
-	const line_translations = pairs.map(([ chinese, english ]) => {
-		let i = 0
-		const translations = []
-    if (chinese.parts.length !== english.parts.length) {
-			translations.push([chinese.string, english.string])
-		} else {
-	    while (i < chinese.parts.length) {
-				translations.push([chinese.parts[i], english.parts[i]])
-				i++
-			}
-		}
-		return translations
-	})
+const pairs = files.flatMap(f => TranslationPairs.from(parseFile(f)).pairs)
+console.log(encode(pairs))
 
-  trans[name] = line_translations
-}
-
-writeFile('translations.json', JSON.stringify(trans))
