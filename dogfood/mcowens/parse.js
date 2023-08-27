@@ -1,4 +1,4 @@
-import { readFileSync as read, readdirSync as dir } from 'node:fs'
+import { readFileSync as read, readdirSync as dir, writeFileSync as writeFile } from 'node:fs'
 import { toString } from 'uint8arrays/to-string'
 import { join } from 'node:path'
 import rmd from 'remove-markdown'
@@ -184,21 +184,25 @@ const safe_split = (string, split_chars) => {
   return results
 }
 
+const trans = {}
+
 for (const [ name, { lines } ] of Object.entries(texts)) {
 	const pairs = TranslationPairs.from(lines)
 	const line_translations = pairs.map(([ chinese, english ]) => {
 		let i = 0
 		const translations = []
     if (chinese.parts.length !== english.parts.length) {
-			translations.push(Translation.from(chinese.string, english.string))
+			translations.push([chinese.string, english.string])
 		} else {
 	    while (i < chinese.parts.length) {
-				translations.push(Translation.from(chinese.parts[i], english.parts[i]))
+				translations.push([chinese.parts[i], english.parts[i]])
 				i++
 			}
 		}
 		return translations
 	})
-	console.log(line_translations)
+
+  trans[name] = line_translations
 }
 
+writeFile('translations.json', JSON.stringify(trans))
