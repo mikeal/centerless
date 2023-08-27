@@ -1,10 +1,6 @@
 # CHAPTER ONE - BUDDHA LANDS
 
-# *VIMALAK**Ī****RTI NIRDEŚA SŪTRA*
-
 ## 佛國品第一
-
-## 🍃 CHAPTER ONE - *BUDDHA LANDS*
 
 ### 如是我聞:
 

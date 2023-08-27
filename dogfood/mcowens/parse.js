@@ -62,13 +62,16 @@ const parseFile = file => {
 		}
 	}
 
+  /* 
   while (guess(lines[lines.length-1]) === guess(lines[lines.length-2]) === true) {
 		lines.pop()
 	}
+	*/
 
 	let i = 1 
 	while (i < lines.length) {
-		if (guess(lines[i-1]) === guess(lines[i])) {
+		// console.log({i, l: lines[i-1], o: lines[i] })
+		if (i > 0 && guess(lines[i-1]) === guess(lines[i])) {
 			lines[i-1] += '\n\n' + lines.splice(i, 1)[0]
 		} else {
 			i++

@@ -28,3 +28,9 @@ the Thus Come One.”
 
 恐彼分別執為我。」
 <<< The Ādānavijñāna is profound and subtle,
+
+All seeds are like a torrential flow,
+
+I do not explain it to the ignorant,
+
+Fearing that it be differentiated and clung to as a self.

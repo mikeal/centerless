@@ -1,4 +1,6 @@
-# Chapter 8 - The Accomplishments of the ‘doings’ of the Tathagata 如來成所作事
+# Chapter 8 - The Accomplishments of the ‘doings’ of the Tathagata
+
+## 如來成所作事
 
 ## 如來成所作事品第八
 

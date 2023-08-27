@@ -2,8 +2,6 @@
 
 ## 文殊師利問疾品第五
 
-## 🍃 CHAPTER FIVE - *MAÑJUŚRĪ INQUIRES ABOUT ILLNESS*
-
 ### 爾時佛告文殊師利：「汝行詣維摩詰問疾。」
 
 Then the Buddha said to Mañjuśrī, “You should go visit Vimalakīrti and inquire about his illness.” 

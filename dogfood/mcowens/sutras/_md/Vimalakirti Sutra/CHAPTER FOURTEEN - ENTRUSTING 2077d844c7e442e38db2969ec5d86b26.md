@@ -2,8 +2,6 @@
 
 ## 囑累品第十四
 
-## 🍃 CHAPTER FOURTEEN - *ENTRUSTING*
-
 ### 於是佛告彌勒菩薩言：「彌勒！我今以是無量億阿僧祇劫所集阿耨多羅三藐三菩提法，付囑於汝。如是輩經，於佛滅後末世之中，汝等當以神力，廣宣流布於閻浮提，無令斷絕。所以者何？未來世中，當有善男子、善女人，及天、龍、鬼神、乾闥婆、羅剎等，發阿耨多羅三藐三菩提心，樂于大法；若使不聞如是等經，則失善利。如此輩人，聞是等經，必多信樂，發希有心，當以頂受，隨諸眾生所應得利，而為廣說。
 
 At this time, the Buddha told Maitreya Bodhisattva, “Maitreya! I now bestow on you this Dharma of *anuttarā-samyak-saṃbodhi*, which I have accumulated over immeasurable *koṭis* of *asaṃkhyeyas* of *kalpas*. Sutras of this kind should, during the final period after my Nirvana, be circulated extensively throughout Jambudvīpa by you and others with your spiritual power so as not to be cut off. Why? In a future time, there will be good men and good women, as well as devas, nagas, ghosts and spirits, gandharvas, rakṣasas, and so on, who will generate *anuttarā-samyak-saṃbodhi citta* and take pleasure in the great Dharma. If they are unable to hear sutras such as this, they will lose its good benefit. When these type of people hear these sutras, they must with great faith and joy realize their rarity and accept them with humility, explaining them extensively according to the benefits that sentient beings will receive from them.”

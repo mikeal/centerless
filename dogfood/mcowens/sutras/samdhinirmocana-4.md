@@ -44,3 +44,9 @@ Ruining realization of the wonderous, pure characteristic of things.
 
 無有失壞可憐愍。」
 <<< Not observing the errors of all saṃskāras,
+
+One indulges in errors and harms sentient beings,
+
+Lazy (kausīdya) among abiding and moving things,
+
+How could someone so lost not be pitiable?

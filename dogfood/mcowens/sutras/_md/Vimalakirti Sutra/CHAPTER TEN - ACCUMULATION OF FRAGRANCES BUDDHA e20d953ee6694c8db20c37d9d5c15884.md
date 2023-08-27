@@ -2,10 +2,6 @@
 
 ## 香積佛品第十
 
-## 🍃 CHAPTER TEN - *ACCUMULATION OF FRAGRANCES BUDDHA*
-
- 
-
 ### 於是舍利弗心念：「日時欲至，此諸菩薩當於何食？」
 
 THen, Śāriputra thought to himself, “It is almost noon. What will all these bodhisattvas eat?”

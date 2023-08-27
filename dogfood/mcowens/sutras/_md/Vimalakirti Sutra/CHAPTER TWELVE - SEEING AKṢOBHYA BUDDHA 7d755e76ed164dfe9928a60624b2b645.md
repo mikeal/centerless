@@ -2,8 +2,6 @@
 
 ## 見阿閦佛品第十二
 
-## 🍃 CHAPTER TWELVE - *SEEING AKṢOBHYA BUDDHA*
-
 ### 爾時世尊問維摩詰：「汝欲見如來，為以何等觀如來乎？」
 
 At that time the World-Honored One asked Vimalakīrti, “You want[ed] to see the Thus Come One. How is the Thus Come One to be observed?”

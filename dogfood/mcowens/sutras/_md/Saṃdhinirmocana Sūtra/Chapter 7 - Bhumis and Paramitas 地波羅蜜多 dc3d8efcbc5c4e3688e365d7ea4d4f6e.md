@@ -1,6 +1,6 @@
-# Chapter 7 - Bhumis and Paramitas 地波羅蜜多
+# Chapter 7 - Bhumis and Paramitas
 
-## Questions about the Stages
+## 地波羅蜜多
 
 ### 爾時，觀自在菩薩白佛言：「世尊！如佛所說菩薩十地，所謂極喜地、離垢地、發光地、焰慧地、極難勝地、現前地、遠行地、不動地、善慧地、法雲地；復說佛地為第十一。如是諸地，幾種清淨？幾分所攝？」
 
@@ -128,8 +128,6 @@ Avalokiteśvara Bodhisattva again addressed the Buddha saying, “World-Honored 
 
 The Buddha told Avalokiteśvara Bodhisattva, “Kulaputra! There are four reasons: All bodhisattvas are well able to realize the joy of abiding in Nirvana and could quickly realize it; However, they renounce the rapid realization of that joyful abode; Without cause or necessity, they produce the mind of that great vow; Due to a desire to benefit all sentient beings they remain among great suffering of various kinds for a prolonged time. For these reasons, I have said that they perform a great vow, a wondrous vow, a superior vow.”
 
-## Questions about the Pāramitās
-
 ### 觀自在菩薩復白佛言：「世尊！是諸菩薩凡有幾種所應學事？」
 
 Avalokiteśvara Bodhisattva again addressed the Buddha saying, “World-Honored One! Generally speaking, how many types of things should these bodhisattvas study?” 
@@ -196,8 +194,6 @@ Avalokiteśvara Bodhisattva again addressed the Buddha saying, “World-Honored 
 ### 佛告觀自在菩薩曰：「善男子！各有三種。施三種者：一者、法施；二者、財施；三者、無畏施。戒三種者：一者、轉捨不善戒；二者、轉生善戒；三者、轉生饒益有情戒。忍三種者：一者、耐怨害忍；二者、安受苦忍；三者、諦察法忍。精進三種者：一者、被甲精進；二者、轉生善法加行精進；三者、饒益有情加行精進。靜慮三種者：一者、無分別寂靜極寂靜無罪故，對治煩惱眾苦樂住靜慮；二者、引發功德靜慮；三者、引發饒益有情靜慮。慧三種者：一者、緣世俗諦慧；二者、緣勝義諦慧；三者、緣饒益有情慧。」
 
 The Buddha replied to Avalokiteśvara Bodhisattva saying, “Kulaputra! Each has three kinds [of subdivisions]. The three kinds of giving are: 1. Giving the Dharma, 2. Giving goods, and 3. Giving fearlessness. The three kinds of discipline are: 1. The discipline to turn away from what is not good, 2. The discipline to turn toward what is good, and 3. The discipline to turn toward benefiting sentient beings. The three kinds of patience are: 1. The patience to endure insult and injury, 2. The patience to abide peacefully upon receiving suffering, and 3. The patience to investigate *Dharma*. The three kinds of *vīrya* are: 1. *Vīrya* which protects one like armor, 2. *Vīrya* to exert effort in engendering good Dharmas, and 3. *Vīrya* to exert effort in benefiting sentient beings. The three kinds of *dhyāna* are: 1. The *dhyāna* of abiding in a joyful mind, which counteracts all the suffering of the passions because it is nondiscriminative, tranquil, very tranquil, and irreproachable, 2. *Dhyāna* that engenders virtue (merit); and 3. *Dhyāna* that produces benefit for sentient beings. The three kinds of wisdom are: 1. Wisdom that has as its object worldly, conventional truth, 2. Wisdom that has as its object the truth of ultimate meaning (*paramārtha*), and 3. Wisdom that has as its object the benefiting of sentient beings. ”
-
-## Five Characteristics of the Pāramitās
 
 ### 觀自在菩薩復白佛言：「世尊！何因緣故，波羅蜜多說名波羅蜜多？」
 

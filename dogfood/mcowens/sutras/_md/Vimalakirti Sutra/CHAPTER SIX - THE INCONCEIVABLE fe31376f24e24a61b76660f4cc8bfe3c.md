@@ -2,8 +2,6 @@
 
 ## 不思議品第六
 
-## 🍃 CHAPTER SIX - *THE INCONCEIVABLE*
-
 ### 爾時舍利弗見此室中無有床座，作是念：「斯諸菩薩、大弟子眾，當於何坐？」
 
 Then, Śāriputra saw that there were no seats in the room and he had this thought, ‘All these bodhisattvas and great disciples, where should they sit?’

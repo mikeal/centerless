@@ -2,8 +2,6 @@
 
 ## 菩薩行品第十一
 
-## 🍃 CHAPTER ELEVEN - *PRACTICES OF THE BODHISATTVA*
-
 ### 是時佛說法於菴羅樹園，其地忽然廣博嚴事，一切眾會皆作金色。阿難白佛言：「世尊！以何因緣，有此瑞應？是處忽然廣博嚴事，一切眾會皆作金色。」
 
 At that time, the Buddha was in the Āmrapālī Garden explaining the Dharma, when the ground suddenly became broad and beautifully adorned, and everyone in the assembly all became the color of gold. Ānanda asked the Buddha saying, “World-Honored One! What are the ‘causes and conditions’ of these auspicious signs? The ground suddenly becoming broad and beautifully adorned, and everyone in the assembly all becoming the color of gold.” 

@@ -2,8 +2,6 @@
 
 ## 法供養品第十三
 
-## 🍃 CHAPTER THIRTEEN - *DHARMA OFFERINGS*
-
 ### 爾時釋提桓因於大眾中白佛言：「世尊！我雖從佛及文殊師利聞百千經，未曾聞此不可思議，自在神通，決定實相經典。如我解佛所說義趣，若有眾生聞是經法，信解受持讀誦之者，必得是法不疑，何況如說修行？斯人即為閉眾惡趣開諸善門，常為諸佛之所護念；降伏外學，摧滅魔怨；修治菩提，安處道場；履踐如來所行之跡。世尊！若有受持讀誦如說修行者，我當與諸眷屬供養給事；所在聚落城邑、山林曠野，有是經處，我亦與諸眷屬，聽受法故共到其所；其未信者，當令生信；其已信者，當為作護。」
 
 At that time, Śakra Devānām Indra, who was in the great congregation, addressed the Buddha saying, “World-honored One!  Though I have heard hundreds and thousands of sutras from the Buddha and Mañjuśrī, I have never heard one with such inconceivable, sovereign spiritual power,

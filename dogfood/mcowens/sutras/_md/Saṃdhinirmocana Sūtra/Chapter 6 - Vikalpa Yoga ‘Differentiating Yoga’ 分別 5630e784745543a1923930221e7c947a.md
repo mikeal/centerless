@@ -1,4 +1,6 @@
-# Chapter 6 - Vikalpa Yoga ‘Differentiating Yoga’ 分別瑜伽
+# Chapter 6 - Vikalpa Yoga ‘Differentiating Yoga’
+
+##分別瑜伽
 
 ## 爾時慈氏菩薩摩訶薩白佛言：「世尊！菩薩何依何住，於大乘中修奢摩他、毘鉢舍那？」
 

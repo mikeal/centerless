@@ -2,8 +2,6 @@
 
 ## 觀眾生品第七
 
-## 🍃 CHAPTER SEVEN - *OBSERVING SENTIENT BEINGS*
-
 ### 爾時文殊師利問維摩詰言：「菩薩云何觀於眾生？」
 
 Then Mañjuśrī asked Vimalakīrti, “How does a bodhisattva observe (perceive, regard, ‘in-see’, as in insight or *vipaśyanā*) a sentient being?”   

@@ -2,8 +2,6 @@
 
 ## 入不二法門品第九
 
-## 🍃 CHAPTER NINE - *ENTERING THE DHARMA DOOR OF NONDUALITY*
-
 ### 爾時維摩詰謂眾菩薩言：「諸仁者！云何菩薩入不二法門？各隨所樂說之。」
 
 Then Vimalakirti said to the gathering of bodhisattvas, “Venerables! How does a bodhisattva enter the Dharma Door of Nonduality? Let each of you explain as you wish.”  

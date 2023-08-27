@@ -2,8 +2,6 @@
 
 ## 佛道品第八
 
-## 🍃 CHAPTER EIGHT - *THE WAY OF THE BUDDHA*
-
 ### 爾時文殊師利問維摩詰言：「菩薩云何通達佛道？」
 
 At that time, Mañjuśrī asked Vimalakīrti, “ How do bodhisattvas enter the ***Way of the Buddha***?” ** 

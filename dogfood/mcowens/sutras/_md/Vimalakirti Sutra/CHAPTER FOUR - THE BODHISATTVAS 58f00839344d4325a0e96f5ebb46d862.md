@@ -2,8 +2,6 @@
 
 ## 菩薩品第四
 
-## 🍃 CHAPTER FOUR - *THE BODHISATTVAS*
-
 ## 彌勒菩薩 [Maitreya](https://www.notion.so/Maitreya-Bodhisattva-e8bf1e36772146229b4de1abda3b611f?pvs=21) ‘The Friendly One’ Bodhisattva
 
 ### 於是佛告彌勒菩薩：「汝行詣維摩詰問疾。」

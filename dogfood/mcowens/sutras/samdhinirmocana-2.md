@@ -192,3 +192,9 @@ PART FOUR - Subhūti
 
 彼定愚癡依上慢。」
 <<< This characteristic of a ‘single flavor’ that pervades everything,
+
+Is no different than the ultimate meaning explained by all buddhas.
+
+If there is any difference or differentiation between them,
+
+That is certainly ignorant and prideful.

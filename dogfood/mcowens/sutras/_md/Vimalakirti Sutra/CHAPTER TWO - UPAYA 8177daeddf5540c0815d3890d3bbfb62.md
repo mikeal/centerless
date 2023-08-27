@@ -2,10 +2,6 @@
 
 ## 方便品第二
 
-## 🍃 CHAPTER TWO - *UPAYA*
-
- 
-
 ### 爾時毘耶離大城中有長者，名維摩詰，已曾供養無量諸佛，深植善本，得無生忍；辯才無礙，遊戲神通，逮諸總持；獲無所畏，降魔勞怨；入深法門，善於智度，通達方便，大願成就；明了眾生心之所趣，又能分別諸根利鈍，久於佛道，心已純淑，決定大乘；諸有所作，能善思量；住佛威儀，心大如海，諸佛咨嗟！弟子、釋、梵、世主所敬。
 
 At that time, in the great city of Vaiśālī there was an elder named Vimalakīrti. He had already offered alms to immeasurable Buddhas in the past, had deeply planted roots of goodness, and had grasped the patient tolerance of birthlessness. Unhindered in eloquence, he roamed in the transcendental powers, and commanded full retention of the teachings. He had attained the state of fearlessness, over­coming the torments and ill will of Mara. He had entered the profound Dharma Doors and excelled in transcendent Wisdom (*Prajñāpāramitā*), a master of *upāya*, expedient means, he had successfully fulfilled the great vow. He could clearly discern the tendencies of the minds of sentient beings, and was also capable of distinguishing their capacities (faculties, *indriya*), keen or obtuse. His mind having long been clear and purified through the Way of the Buddha and he was firmly on the Great Vehicle. Everything he did was well thought out and planned. He abided with the dignity and authority of a Buddha, his mind as vast as an ocean, and all the Buddhas sighed in admiration! Disciples, Śakra, Brahmā, World Leaders, all praised him. 
